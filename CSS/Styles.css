@@ -1,0 +1,22 @@
+h1 {
+color: black;
+text-decoration: underline;
+border: 30px  solid #EF8DDE;
+text-shadow: 2px 2px #72007F;
+}
+h2 {
+color: red;
+text-decoration: underline;
+border: 30px  solid #EF8DDE;
+}
+
+ul li {
+  background-color: #E58DEF ;
+}
+
+ol li {
+}
+
+body {
+    background-image: linear-gradient(to bottom right, pink, purple);
+}
